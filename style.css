@@ -36,8 +36,8 @@ box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 .bottone {
 display: inline-block;
-background: teal;
-color: green;
+background: gray;
+color: white;
 padding: 8px 14px;
 border-radius: 8px;
 text-decoration: none;
