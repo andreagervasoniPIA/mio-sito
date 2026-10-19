@@ -17,10 +17,10 @@ h1 {
 }
 
 .scheda {
-  background: #f4f4f9;
+  background: #fff;
   max-width: 500px;
   margin: 20px auto;
-  padding: 20px;
+  padding: 16px;
   border-radius: 12px;
   text-align: left;
   border: 1px solid #ccc;
