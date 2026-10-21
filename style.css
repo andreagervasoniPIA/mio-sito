@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 20px;
-background-image: url("sfondo.jpg");
+background-image: url("img/sfondo.jpg");
 background-size: cover;
 background-attachment: fixed;
 }
