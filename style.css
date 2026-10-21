@@ -40,7 +40,7 @@ box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 .bottone {
 display: inline-block;
-background: darkblue;
+background: orange;
 color: red;
 padding: 8px 14px;
 border-radius: 8px;
@@ -51,7 +51,7 @@ margin: 4px;
 background: orange;
 }
 .menu {
-  background: red;
+  background: darkblue;
   padding: 10px;
   border-radius: 10px;
 }
