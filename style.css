@@ -35,6 +35,11 @@ h2 {
   color: white;
 }
 
+footer {
+  color: white; /* Oppure il colore chiaro che preferisci */
+  font-size: 12px;
+}
+
 .scheda {
 box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
