@@ -124,3 +124,12 @@ border-radius: 12px;
 padding: 10px 20px;
 margin-top: 20px;
 }
+
+/* Colore dei testi */
+.scheda {
+  color: black;
+}
+
+table {
+  color: black;
+}
