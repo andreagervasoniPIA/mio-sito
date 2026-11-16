@@ -129,10 +129,17 @@ body {
   color: white;
 }
 
+/* Testo dentro le schede bianche */
 .scheda {
   color: black;
 }
 
+/* Testo dentro le tabelle */
 table {
+  color: black;
+}
+
+/* Testo dentro il riepilogo */
+#riepilogo {
   color: black;
 }
