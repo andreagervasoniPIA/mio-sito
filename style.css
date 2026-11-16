@@ -125,7 +125,10 @@ padding: 10px 20px;
 margin-top: 20px;
 }
 
-/* Colore dei testi */
+body {
+  color: white;
+}
+
 .scheda {
   color: black;
 }
